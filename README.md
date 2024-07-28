@@ -10,7 +10,7 @@ $ git clone https://github.com/InnoverseTeam/DiscordInnoverse-Bot
 $ cd DiscordInnoverse-Bot
 ```
 
-### Compiling using `go`
+### Compiling using Go
 ```bash
 $ go mod init DiscordInnoverse-Bot
 $ go get github.com/bwmarrin/discordgo
