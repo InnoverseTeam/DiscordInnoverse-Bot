@@ -14,4 +14,6 @@ $ cd DiscordInnoverse-Bot
 ```bash
 $ go mod init DiscordInnoverse-Bot
 $ go get github.com/bwmarrin/discordgo
+$ go mod tidy
+$ go run main.go
 ```
