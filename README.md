@@ -1,4 +1,4 @@
-# DiscordInnoverse-Bot
+# Innoverse-Bot
 Discord bot of Innoverse Discord Server
 
 ## Compiling
